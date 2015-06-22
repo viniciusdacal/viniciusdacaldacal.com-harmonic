@@ -5,7 +5,7 @@ date: 2015-01-19T23:27:00.847Z
 comments: true
 published: true
 keywords: JavaScript, ES6
-description: New year, new life1
+description: New year, new life!
 categories: offtopic
 authorName: Vinicius Dacal
 -->
@@ -22,5 +22,5 @@ Every comment and feedback will be welcome :)
 I just want to remember this is not just the place where I share knowledge, but also where I learn. As a human in constantly evolution, I make some mistakes, so, if I write something wrong here, please, correct me.
 
 ###Get in touch
-Questions, comments or suggestions, send me an e-mail [{{site.email}}](mailto:{{site.email}}), ou no Twitter [@{{site.twitter_username}}](https://twitter.com/{{site.twitter_username}})
+Questions, comments or suggestions, send me an e-mail [viniciusldacal@gmail.com](mailto:viniciusldacal@gmail.com), ou no Twitter [@vinicius_dacal](https://twitter.com/vinicius_dacal)
 
