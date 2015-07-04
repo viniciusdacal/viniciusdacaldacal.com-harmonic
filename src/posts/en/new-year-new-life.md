@@ -12,6 +12,7 @@ authorName: Vinicius Dacal
 
 Making plans last year, I decided that this year some things would change (or not). I decided I'd study more and beyond to study, I'd share a bit of aquired knowledge. Nothing better than start to write a blog, I think this is the easiest way to share knowledge, receive feedback e measure the impact of the produced content.
 
+<!--more-->
 ###Blog Content
 
 On this blog, I will post about web technologies. As I know more about Front end development, probably that will be the subject that you will see more here.
