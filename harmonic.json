@@ -10,7 +10,7 @@
     "theme": "harmonic-theme-default",
     "preprocessor": "stylus",
     "posts_permalink": ":language/:year/:month/:title",
-    "pages_permalink": "pages/:title",
+    "pages_permalink": ":language/pages/:title",
     "header_tokens": [
         "<!--",
         "-->"
@@ -22,6 +22,10 @@
             "en",
             "pt-br"
         ]
+    },
+    "language_alias": {
+        "en": "EN",
+        "pt-br":"PT"
     },
     "contact_information": {
         "email": "viniciusldacal@gmail.com",
