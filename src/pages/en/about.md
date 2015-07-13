@@ -1,15 +1,15 @@
 <!--
 layout: page
-title: About
+title: about.me
 date: 2014-05-27T07:18:47.847Z
 comments: false
 published: true
 keywords: Javascript, Carreer
 description: About Vinicius Dacal
 categories:
-authorName: Vinicius Dacal Lopes
+authorName: Vinicius Dacal
 -->
-My name is Vinicius Dacal, I am 22 years old and I am Bachelor of Technology in Internet Systems.
+My name is Vinicius Dacal Lopes, I am 22 years old and I am Bachelor of Technology in Internet Systems.
 
 I make websites for fun since I was 14, when I took a course in web design.
 
